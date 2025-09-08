@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Shawn N. Cummings"
+title                    : "Shawn N. Cummings, Ph.D. (he/him)"
 title_separator          : "-"
 name                     : &name "Shawn N. Cummings"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "ShawnNCummings/ShawnNCummings.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shawn N. Cummings, PhD"
-  pronouns         : # example: "he/him"  
-  bio              : "Cognitive scientist focused on how we understand the world and each other"
+  #name             : "Shawn N. Cummings, PhD"
+  #pronouns         : # example: "he/him"  
+  #bio              : "Cognitive scientist focused on how we understand the world and each other"
   location         : "CT and CA"
   employer         : "UC Irvine"
   uri              : # URL
