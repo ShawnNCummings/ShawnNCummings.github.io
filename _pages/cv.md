@@ -12,7 +12,7 @@ editor_options:
 
 {% include base_path %}
 
-A .pdf of my CV is downloadable [here](/files/Cummings_CV_090125).
+A .pdf of my CV is downloadable [here](/files/Cummings_CV_090125.pdf).
 
 More engaging descriptions of my formal training, teaching, and research
 can be found on the various tabs of this webpage.
