@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shawn Cummings, Ph.D. (he/him)"
+title: "Shawn N. Cummings, Ph.D. (he/him)"
 author_profile: true
 redirect_from: 
   - /about/
