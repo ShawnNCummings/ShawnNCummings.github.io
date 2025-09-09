@@ -15,14 +15,14 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Training"
+    url: /training/
+
   - title: "Code"
     url: /code/
 
   - title: "CV"
     url: /cv/
-
-  - title: "Training"
-    url: /training/ 
     
   # - title: "CV"
   #   url: /cv-json/
