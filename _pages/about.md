@@ -11,4 +11,10 @@ I am currently a postdoctoral fellow in [Language Science](https://www.langsci.u
 
 My research program focuses on the cognitive mechanisms underlying adaptation, specifically during speech perception. As each new talker we encounter produces their words differently, ***How do we nevertheless easily and robustly understand one another?***
 
-This is a fundamentally interdisciplinary question, concerned with language but also with mind and brain. My work brings a breadth of perspective, with [formal training](https://shawnncummings.github.io/cv/) across disciplines including linguistics, psychology, and neurobiology. My [research](https://shawnncummings.github.io/publications/) combines approaches from behavioral psychophysics, computational modeling, and cognitive neuroscience.
+This is a fundamentally interdisciplinary question, concerned with language but also with mind and brain. My work brings a breadth of perspective, with [formal training](https://shawnncummings.github.io/training/) across disciplines including linguistics, psychology, and the neurobiology of language. My [research](https://shawnncummings.github.io/research/) combines approaches from behavioral psychophysics, computational modeling, and cognitive neuroscience.
+
+------------------------------------------------------------------------
+
+## Upcoming talks
+
+On **9/24/25**, I will give a talk on [Perceptual learning and the statistics of speech input](https://www.bcbl.eu/en/noticias/ponente-invitad/shawn-cummings-perceptual-learning-statistics-speech-input) as part of the external speakers series at the Basque Center on Cognition, Brain, and Language.
