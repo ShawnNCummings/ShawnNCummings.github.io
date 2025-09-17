@@ -9,3 +9,5 @@ Our ability to make sense of our environment is challenged by at least two funda
 To address these general questions—how we represent information in our environment, how those representations change based on input, and how we use that information to facilitate understanding—my research program focuses on one specific use case: human speech. Speech is an ideal testbed as it is ubiquitous and meaningful, but is also highly variable between situations. My work, through a combination of behavioral, computational, and cognitive neuroscience methodologies, investigates how we overcome this variability.
 
 A full list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=UfMvTKcAAAAJ&hl=en). Conference proceedings, talks, and posters can additionally be found on my [CV](https://shawnncummings.github.io/files/Cummings_CV_090125.pdf).
+
+![](https://shawnncummings.github.io/images/research-schematic.png)
