@@ -15,6 +15,4 @@ This is a fundamentally interdisciplinary question, concerned with language but 
 
 ------------------------------------------------------------------------
 
-## Upcoming talks
 
-On **9/24/25**, I will give a talk on [Perceptual learning and the statistics of speech input](https://www.bcbl.eu/en/noticias/ponente-invitad/shawn-cummings-perceptual-learning-statistics-speech-input) as part of the external speakers series at the Basque Center on Cognition, Brain, and Language.
