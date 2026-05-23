@@ -16,3 +16,10 @@ My work brings a breadth of perspective, with [formal training](https://shawnncu
 I am currently a postdoctoral fellow in [Language Science](https://www.langsci.uci.edu/) at the [University of California, Irvine](https://uci.edu/), working primarily with Drs. [Xin Xie](https://sites.uci.edu/sclab/people/) and [Chigusa Kurumada](https://kinderlab.bcs.rochester.edu/#people).
 
 ------------------------------------------------------------------------
+
+## Recent news/presentations:
+
+**May 2026**: [A novel paradigm for rapid determination of listener specific phonetic boundaries](https://shawnncummings.github.io/files/PBC_ASA.pdf) presented at the Acoustical Society of America annual meeting.
+
+**March 2026**: [Cumulative input sensitivity predicts both attenuation and stability
+of lexically guided perceptual learning](https://shawnncummings.github.io/files/CHT26.pdf) published in Psychonomic Review & Bulletin.
