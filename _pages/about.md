@@ -18,8 +18,6 @@ I am currently a postdoctoral fellow in [Language Science](https://www.langsci.u
 ------------------------------------------------------------------------
 
 ## Recent news/presentations:
+**July 2026**: Adaptive Speech Perception: Empirical Indeterminacy and a Path Forward ([paper](https://aclanthology.org/2026.scil-main.48.pdf), [poster](https://shawnncummings.github.io/files/LoLASP_SCiL.pdf)) presented at the Society for Computation in Linguistics. 
 
-**May 2026**: [A novel paradigm for rapid determination of listener specific phonetic boundaries](https://shawnncummings.github.io/files/PBC_ASA.pdf) presented at the Acoustical Society of America annual meeting.
-
-**March 2026**: [Cumulative input sensitivity predicts both attenuation and stability
-of lexically guided perceptual learning](https://shawnncummings.github.io/files/CHT26.pdf) published in Psychonomic Review & Bulletin.
+**June 2026**: Adaptive Speech Perception: Empirical Indeterminacy and a Path Forward ([paper](https://shawnncummings.github.io/files/CISP_labphon_paper.pdf), [poster](https://shawnncummings.github.io/files/CISP_labphon_poster.pdf)) presented at the Association for Laboratory Phonology. 
