@@ -18,6 +18,9 @@ I am currently a postdoctoral fellow in [Language Science](https://www.langsci.u
 ------------------------------------------------------------------------
 
 ## Recent news/presentations:
+**October 2026**: *Two* papers accepted for talks at the California Meeting on Psycholinguistics! How perceptual is lexically guided perceptual learning? ([abstract](https://openreview.net/pdf/951fa5f17322cc378ce6e41ba3b817d9bb7abdf3.pdf)) and Toward Distributional Analyses of Accented Speech Production:
+The ADAPT Corpus and a Fricative Voicing Case Study ([abstract](https://openreview.net/pdf/ff43da2610233a1b90a41d16bd8893853fbdaeb4.pdf)).
+
 **July 2026**: Adaptive Speech Perception: Empirical Indeterminacy and a Path Forward ([paper](https://aclanthology.org/2026.scil-main.48.pdf), [poster](https://shawnncummings.github.io/files/LoLASP_SCiL.pdf)) presented at the Society for Computation in Linguistics. 
 
 **June 2026**: No specialized mechanisms needed? Standard perceptual compensation might explain
